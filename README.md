@@ -12,7 +12,7 @@
 **Freelance Roblox Developer** · Luau Scripter · Systems Architect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-zaatardev.github.io-ff4500?style=flat-square&logo=github)](https://zaatardev.github.io)
-[![Discord](https://img.shields.io/badge/Discord-@zaatardev-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/zaatardev)
+[![Discord](https://img.shields.io/badge/Discord-@zaatardev-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/539055730481692672)
 [![Location](https://img.shields.io/badge/Based_in-Jordan-006633?style=flat-square)](#)
 
 </div>
