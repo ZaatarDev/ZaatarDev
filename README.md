@@ -29,7 +29,7 @@ I write game systems for Roblox: the kind that ship, scale, and hold up under re
 - **AI & NPCs:** pathfinding, boss behaviors, state machines, zombie wave logic
 - **DataStore & Persistence:** player saves, house/inventory systems, anti-data-loss
 - **UI/UX:** clean, responsive interfaces using ScreenGui best practices
-- **Networking:** RemoteEvent/RemoteFunction architecture, server authority, anti-exploit patterns
+- **Networking:** RemoteEvent/RemoteFunction architecture, server authority, secure client-server design
 
 ---
 
@@ -52,7 +52,7 @@ Language      Luau (Roblox), Python, JavaScript / TypeScript
 Frameworks    React, Vite, FastAPI
 Tooling       Roblox Studio, Rojo, VS Code, Git
 Services      Roblox Open Cloud API, DataStore, MessagingService
-UI            WindUI, custom ScreenGui frameworks
+UI            React Lua, custom ScreenGui frameworks
 ```
 
 ---
